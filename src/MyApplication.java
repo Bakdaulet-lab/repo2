@@ -20,7 +20,6 @@ public class MyApplication {
             shape.addPoint(point);
 
 
-
         }
 
         sc.close();
